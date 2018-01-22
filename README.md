@@ -4,7 +4,7 @@ Hi Humans!
 
 Do you want to meet aliens?
 
-`vra a=NaN`
+`var a=NaN`
 
 ~~hahahah~~
 
